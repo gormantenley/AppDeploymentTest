@@ -12,4 +12,11 @@ if st.button("Click me!"):
 else:
     st.write("Click the button to see what happens!")
 
-        
+
+#draw a picture of a cat
+st.image("https://images.unsplash.com/photo-1555685812-3c7f8b5e4a2d", caption="A cute cat", use_column_width=True)
+st.write("This is a picture of a cat. Isn't it cute?")
+st.write("This is a picture of a cat. Isn't it cute?")
+st.write("This is a picture of a cat. Isn't it cute?")
+st.write("This is a picture of a cat. Isn't it cute?")
+st.write("This is a picture of a cat. Isn't it cute?")
