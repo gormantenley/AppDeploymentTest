@@ -31,7 +31,7 @@ keyword = st.text_input('Now enter a product you want to snoop on:', 'Shoe')
 #post limit: change later so that its always a sufficient amount, maybe an if statement based on number of total posts
 #post_limit = st.number_input('Number of posts to retrieve:', min_value=1, max_value=100, value=10)
 #for now i am just setting post_limit to 5
-post_limit = 5
+post_limit = 20
 
 
 #CACHE SYSTEM SETUP
